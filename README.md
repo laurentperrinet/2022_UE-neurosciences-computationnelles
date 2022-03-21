@@ -19,8 +19,6 @@
   * TP via notebook
   * https://github.com/laurentperrinet/2022_UE-neurosciences-computationnelles/
 
-Rendez-vous sur https://univ-amu-fr.zoom.us/XXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
 
 # TP: reproduction de l'article de Mainen & Sejnowski, 1995
 
