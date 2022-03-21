@@ -1,12 +1,10 @@
-# 2022_UE-neurosciences-computationnelles, matériel pour le cours de modélisation
 
+# Réseaux de neurones artificiels et apprentissage machine appliqués à la compréhension de la vision
 
 * Où: Salle PHY51 - Marseille (France)
 
 * Quoi: [Master 1 Neurosciences et Sciences Cognitives](https://ametice.univ-amu.fr/course/view.php?id=89069)
 
-
-# Réseaux de neurones artificiels et apprentissage machine appliqués à la compréhension de la vision
 
 1. _Réseaux neuronaux artificiels pour la vision_
 
