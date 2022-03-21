@@ -1,25 +1,25 @@
-# 2021_UE-neurosciences-computationnelles, matériel pour le cours de modélisation
+# 2022_UE-neurosciences-computationnelles, matériel pour le cours de modélisation
 
 
 * Où: Salle PHY51 - Marseille (France)
 
-* Quoi: [Master 1 Neurosciences et Sciences Cognitives](https://ametice.univ-amu.fr/course/view.php?id=70136)
+* Quoi: [Master 1 Neurosciences et Sciences Cognitives](https://ametice.univ-amu.fr/course/view.php?id=89069)
 
 
 # Réseaux de neurones artificiels et apprentissage machine appliqués à la compréhension de la vision
 
 1. _Réseaux neuronaux artificiels pour la vision_
 
-  * Mercredi 24/03/2021 de 9h-12h
+  * Mercredi 23/03/2022 de 9h-12h
   * Introduction aux Neurosciences de la Vision
   * Réseaux de neurones artificiels et apprentissage machine
 
 2. _Neurones impulsionnels et modèles des fonctions visuelles_
-  * Mercredi 24/03/2021 de 13h30-16h30
+  * Mercredi 23/03/2022 de 13h30-16h30
   * TP via notebook
-  * https://github.com/laurentperrinet/2021_UE-neurosciences-computationnelles/
+  * https://github.com/laurentperrinet/2022_UE-neurosciences-computationnelles/
 
-Rendez-vous sur https://univ-amu-fr.zoom.us/j/95045077273?pwd=Y2Y2Q2VWbEUrd3lFRlUrdjlsczRVdz09
+Rendez-vous sur https://univ-amu-fr.zoom.us/XXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 
 # TP: reproduction de l'article de Mainen & Sejnowski, 1995
@@ -28,7 +28,7 @@ Rendez-vous sur https://univ-amu-fr.zoom.us/j/95045077273?pwd=Y2Y2Q2VWbEUrd3lFRl
 
 * But de ce travail: lire un article scientifique, pouvoir le reproduire avec des simulations d'un neurone et afin d'améliorer sa compréhension.
 
-* Modalités: les étudiants s'organisent seuls, en binome ou en trinome pour fournir un mémoire sous forme de [notebook](https://jupyter.org/) complété à partir [du modèle qui est fourni](https://raw.githubusercontent.com/laurentperrinet/2021_UE-neurosciences-computationnelles/master/C_MainenSejnowski1995.ipynb)). Suivez les balises `TODO` dans le notebook pour vous guider dans cette rédaction. Les commentaires doivent être fait en français (ou en anglais si nécessaire) dans le notebook (n'oubliez-pas de sauver vos changements) et envoyé par e-mail à mailto:laurent.perrinet@univ-amu.fr une fois votre travail fini (de préférence *avant* le 31 avril).
+* Modalités: les étudiants s'organisent seuls, en binome ou en trinome pour fournir un mémoire sous forme de [notebook](https://jupyter.org/) complété à partir [du modèle qui est fourni](https://raw.githubusercontent.com/laurentperrinet/2022_UE-neurosciences-computationnelles/master/C_MainenSejnowski1995.ipynb)). Suivez les balises `TODO` dans le notebook pour vous guider dans cette rédaction. Les commentaires doivent être fait en français (ou en anglais si nécessaire) dans le notebook (n'oubliez-pas de sauver vos changements) et envoyé par e-mail à mailto:laurent.perrinet@univ-amu.fr une fois votre travail fini (de préférence *avant* le 31 avril).
 
 * Outils nécessaires: [Jupyter](https://jupyter.org/), avec [numpy](https://numpy.org/) et [matplotlib](https://matplotlib.org/). Ce sont des outils standard et qui sont facilement installables sur toute plateforme. D'autres solutions hébergées existent:
   * [ebrains / HBP](https://wiki.ebrains.eu/bin/view/Collabs/neuromorphic/SpiNNaker/)
