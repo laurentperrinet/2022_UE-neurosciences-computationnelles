@@ -1,10 +1,12 @@
 # 2021_UE-neurosciences-computationnelles, matériel pour le cours de modélisation
 
 
-* Où: Marseille (France)
+* Où: Salle PHY51 - Marseille (France)
 
 * Quoi: [Master 1 Neurosciences et Sciences Cognitives](https://ametice.univ-amu.fr/course/view.php?id=70136)
 
+
+# Réseaux de neurones artificiels et apprentissage machine appliqués à la compréhension de la vision
 
 1. _Réseaux neuronaux artificiels pour la vision_
 
@@ -22,6 +24,7 @@ Rendez-vous sur https://univ-amu-fr.zoom.us/j/95045077273?pwd=Y2Y2Q2VWbEUrd3lFRl
 
 # TP: reproduction de l'article de Mainen & Sejnowski, 1995
 
+## objectif
 
 * But de ce travail: lire un article scientifique, pouvoir le reproduire avec des simulations d'un neurone et afin d'améliorer sa compréhension.
 
@@ -30,7 +33,7 @@ Rendez-vous sur https://univ-amu-fr.zoom.us/j/95045077273?pwd=Y2Y2Q2VWbEUrd3lFRl
 * Outils nécessaires: [Jupyter](https://jupyter.org/), avec [numpy](https://numpy.org/) et [matplotlib](https://matplotlib.org/). Ce sont des outils standard et qui sont facilement installables sur toute plateforme. D'autres solutions hébergées existent:
   * [ebrains / HBP](https://wiki.ebrains.eu/bin/view/Collabs/neuromorphic/SpiNNaker/)
   * https://deepnote.com/
-  * sur  [GoogleColab](https://colab.research.google.com)  https://colab.research.google.com/github/laurentperrinet/2021_UE-neurosciences-computationnelles/blob/master/C_MainenSejnowski1995.ipynb
+  * sur  [GoogleColab](https://colab.research.google.com)  https://colab.research.google.com/github/laurentperrinet/2022_UE-neurosciences-computationnelles/blob/master/C_MainenSejnowski1995.ipynb - mais attention à bien sauver son travail avec un nom explicite identifiant le groupe
 
 ## contexte
 
@@ -59,6 +62,8 @@ Ici, nous allons essayer de répliquer la figure 1 de [Mainen & Sejnowski (1995)
 - que se passe-t-il quand on inclut un bruit interne à la dynamique du neurone?
 
 # Annexes
+
+* un article à lire sur le hasard et le cerveau: https://laurentperrinet.github.io/publication/perrinet-19-temps/ [lien direct](https://theconversation.com/temps-et-cerveau-comment-notre-perception-nous-fait-voyager-dans-le-temps-127567)
 
 * un article à lire sur le temps dans le cerveau: https://laurentperrinet.github.io/publication/perrinet-19-temps/ [lien direct](https://theconversation.com/temps-et-cerveau-comment-notre-perception-nous-fait-voyager-dans-le-temps-127567)
 
