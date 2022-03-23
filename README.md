@@ -5,6 +5,8 @@
 
 * Quoi: [Master 1 Neurosciences et Sciences Cognitives](https://ametice.univ-amu.fr/course/view.php?id=89069)
 
+* https://laurentperrinet.github.io/talk/2022-03-23-ue-neurosciences-computationnelles/
+
 1. _Réseaux neuronaux artificiels pour la vision_
 
   * Mercredi 23/03/2022 de 9h-12h
@@ -24,7 +26,7 @@
 
 * But de ce travail: lire un article scientifique, pouvoir le reproduire avec des simulations d'un neurone et afin d'améliorer sa compréhension.
 
-* Modalités: les étudiants s'organisent seuls, en binome ou en trinome pour fournir un mémoire sous forme de [notebook](https://jupyter.org/) complété à partir [du modèle qui est fourni](https://raw.githubusercontent.com/laurentperrinet/2022_UE-neurosciences-computationnelles/master/C_MainenSejnowski1995.ipynb)). Suivez les balises `TODO` dans le notebook pour vous guider dans cette rédaction. Les commentaires doivent être fait en français (ou en anglais si nécessaire) dans le notebook (n'oubliez-pas de sauver vos changements) et envoyé par e-mail à mailto:laurent.perrinet@univ-amu.fr une fois votre travail fini (de préférence *avant* le 31 avril).
+* Modalités: les étudiants s'organisent seuls, en binome ou en trinome pour fournir un mémoire sous forme de [notebook](https://jupyter.org/) complété à partir [du modèle qui est fourni](https://raw.githubusercontent.com/laurentperrinet/2022_UE-neurosciences-computationnelles/master/C_MainenSejnowski1995.ipynb)). Suivez les balises `QUESTION` dans le notebook pour vous guider dans cette rédaction. Les commentaires doivent être fait en français (ou en anglais) dans le notebook (n'oubliez-pas de sauver vos changements) et envoyé par e-mail à mailto:laurent.perrinet@univ-amu.fr une fois votre travail fini (de préférence *avant* le 31 avril).
 
 * Outils nécessaires: [Jupyter](https://jupyter.org/), avec [numpy](https://numpy.org/) et [matplotlib](https://matplotlib.org/). Ce sont des outils standard et qui sont facilement installables sur toute plateforme. D'autres solutions hébergées existent:
   * [ebrains / HBP](https://wiki.ebrains.eu/bin/view/Collabs/neuromorphic/SpiNNaker/)
