@@ -59,11 +59,11 @@ Ici, nous allons essayer de répliquer la figure 1 de [Mainen & Sejnowski (1995)
 
 # Annexes
 
-* un article à lire sur le hasard et le cerveau: https://laurentperrinet.github.io/publication/perrinet-19-temps/ [lien direct](https://theconversation.com/temps-et-cerveau-comment-notre-perception-nous-fait-voyager-dans-le-temps-127567)
+* un article à lire sur le hasard et le cerveau: https://laurentperrinet.github.io/publication/perrinet-21-hasard/ [lien direct](https://theconversation.com/le-jeu-du-cerveau-et-du-hasard-159388)
 
 * un article à lire sur le temps dans le cerveau: https://laurentperrinet.github.io/publication/perrinet-19-temps/ [lien direct](https://theconversation.com/temps-et-cerveau-comment-notre-perception-nous-fait-voyager-dans-le-temps-127567)
 
-* [Des illusions aux hallucinations visuelles: une porte sur la perception](https://laurentperrinet.github.io/talk/2019-04-18-jnlf/) - ([slides](https://laurentperrinet.github.io/2019-04-18_JNLF/)) - article sur la perception visuelle : https://laurentperrinet.github.io/post/2019-06-06-theconversation/ [lien direct](https://theconversation.com/illusions-et-hallucinations-visuelles-une-porte-sur-la-perception-117389)
+* un article sur la perception visuelle : https://laurentperrinet.github.io/post/2019-06-06-theconversation/ [lien direct](https://theconversation.com/illusions-et-hallucinations-visuelles-une-porte-sur-la-perception-117389)
 
 * [Modelling spiking neural networks using Brian, Nest and pyNN](https://laurentperrinet.github.io/talk/2019-04-03-a-course-on-vision-and-modelization/) - ([slides](https://laurentperrinet.github.io/2019-01-14_LACONEU/))
 
