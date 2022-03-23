@@ -5,8 +5,6 @@
 
 * Quoi: [Master 1 Neurosciences et Sciences Cognitives](https://ametice.univ-amu.fr/course/view.php?id=89069)
 
-* https://laurentperrinet.github.io/talk/2022-03-23-ue-neurosciences-computationnelles/
-
 1. _Réseaux neuronaux artificiels pour la vision_
 
   * Mercredi 23/03/2022 de 9h-12h
