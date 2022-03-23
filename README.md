@@ -30,7 +30,6 @@
 
 * Outils nécessaires: [Jupyter](https://jupyter.org/), avec [numpy](https://numpy.org/) et [matplotlib](https://matplotlib.org/). Ce sont des outils standard et qui sont facilement installables sur toute plateforme. D'autres solutions hébergées existent:
   * [ebrains / HBP](https://wiki.ebrains.eu/bin/view/Collabs/neuromorphic/SpiNNaker/)
-  * https://deepnote.com/
   * sur  [GoogleColab](https://colab.research.google.com)  https://colab.research.google.com/github/laurentperrinet/2022_UE-neurosciences-computationnelles/blob/master/C_MainenSejnowski1995.ipynb - mais attention à bien sauver son travail avec un nom explicite identifiant le groupe
 
 ## contexte
