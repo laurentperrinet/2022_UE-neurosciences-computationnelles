@@ -13,6 +13,7 @@
   * Introduction aux Neurosciences de la Vision
   * Réseaux de neurones artificiels et apprentissage machine
   * https://laurentperrinet.github.io/slides/2022-03-23_ue-neurosciences-computationnelles/?transition=fade
+  * pour garder une trace de ces slides, pointer vers https://laurentperrinet.github.io/slides/2022-03-23_ue-neurosciences-computationnelles/?print-pdf et imprimer en format PDF.
 
 2. _Neurones impulsionnels et modèles des fonctions visuelles_
   * Mercredi 23/03/2022 de 13h30-16h30
